@@ -1,0 +1,17 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "[] _labels_: nome dos dados\r str _title_: o titulo do gráfico ( não acho necessário )",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
