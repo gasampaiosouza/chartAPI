@@ -12,15 +12,15 @@ To create this API i thought about how to make my life easier and simple, so i t
 
 ### The chart needs:
 
-**arr** _labels_: data name<br>
-**str** _title_: chart title ( not necessary )
+**arr** labels: data name<br>
+**str** title: chart title ( not necessary )
 
 ---
 
 ### Each topic needs:
 
-**str** _label_: data label<br>
-**arr** _data_: raw data
+**str** label: data label<br>
+**arr** data: raw data
 
 ## The first API
 
@@ -30,16 +30,15 @@ So, i made _exactly_ what i wrote above, like this:
 
 ## The better one
 
-Then i realized: This API is a big mess. I could really do it better. <br>
-Then i did it! Now it is like this:
+**Then i realized**: Oh no! This API is a big mess! I could really do it better; then i did it! Now it looks like this:
 
 ![Second API version view](https://imgur.com/zbOkbn3.jpg)
 
-I made it easier to read and to use! Really proud of myself.
+I made it easier to read and to use! really proud of myself.
 
 # How to install
 
-You need to _clone_ this repository, then you can just type: `npm install` or `yarn install`.<br><br>
+You need to **clone** this repository, then you can just type: `npm install` or `yarn install`.<br><br>
 
 Then you need to start **Express Server** to run the API. Just go to this repository's folder and type `node api.js` in the terminal, to run the server. <br><br>
 
