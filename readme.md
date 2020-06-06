@@ -12,7 +12,7 @@ To create this API i thought about how to make my life easier and simple, so i t
 
 ### The chart needs:
 
-**[]** _labels_: data name<br>
+**arr** _labels_: data name<br>
 **str** _title_: chart title ( not necessary )
 
 ---
@@ -20,20 +20,20 @@ To create this API i thought about how to make my life easier and simple, so i t
 ### Each topic needs:
 
 **str** _label_: data label<br>
-**[]** _data_: raw data
+**arr** _data_: raw data
 
 ## The first API
 
 So, i made _exactly_ what i wrote above, like this:
 
-![First API view]()
+![First API view](https://imgur.com/dM2yVnt.jpg)
 
 ## The better one
 
 Then i realized: This API is a big mess. I could really do it better. <br>
 Then i did it! Now it is like this:
 
-![Second API version view]()
+![Second API version view](https://imgur.com/zbOkbn3.jpg)
 
 I made it easier to read and to use! Really proud of myself.
 
