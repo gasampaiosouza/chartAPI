@@ -4,7 +4,7 @@
   "description": "[] _labels_: nome dos dados\r str _title_: o titulo do gráfico ( não acho necessário )",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "cors": "^2.8.5"
   },
   "devDependencies": {},
